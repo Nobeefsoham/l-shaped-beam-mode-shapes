@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this software and record the specific Git commit used."
+title: "L-Shaped Fixed-Free Beam Mode Shapes"
+authors:
+  - name: "Nobeefsoham"
+type: software
+repository-code: "https://github.com/Nobeefsoham/l-shaped-beam-mode-shapes"
+url: "https://github.com/Nobeefsoham/l-shaped-beam-mode-shapes"
+abstract: "Transfer-matrix script for estimating natural frequencies and plotting mode shapes of a two-segment L-shaped fixed-free beam."
+keywords:
+  - MATLAB
+  - GNU Octave
+  - mode shapes
+  - transfer matrix
